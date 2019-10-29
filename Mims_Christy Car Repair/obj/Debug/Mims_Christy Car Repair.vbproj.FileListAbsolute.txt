@@ -1,0 +1,15 @@
+E:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\bin\Debug\Mims_Christy Car Repair.exe.config
+E:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\bin\Debug\Mims_Christy Car Repair.exe
+E:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\bin\Debug\Mims_Christy Car Repair.pdb
+E:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\bin\Debug\Mims_Christy Car Repair.xml
+E:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\obj\Debug\Mims_Christy Car Repair.vbprojResolveAssemblyReference.cache
+E:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\obj\Debug\Mims_Christy_Car_Repair.frmCarRepair.resources
+E:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\obj\Debug\Mims_Christy_Car_Repair.Resources.resources
+E:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\obj\Debug\Mims_Christy Car Repair.vbproj.GenerateResource.Cache
+E:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\obj\Debug\Mims_Christy Car Repair.exe
+E:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\obj\Debug\Mims_Christy Car Repair.xml
+E:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\obj\Debug\Mims_Christy Car Repair.pdb
+G:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\bin\Debug\Mims_Christy Car Repair.exe.config
+G:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\obj\Debug\Mims_Christy Car Repair.exe
+G:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\obj\Debug\Mims_Christy Car Repair.xml
+G:\vbp\Mims_Christy Car Repair\Mims_Christy Car Repair\obj\Debug\Mims_Christy Car Repair.pdb
